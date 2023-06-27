@@ -1,0 +1,4 @@
+node_modules
+cypress/screenshots
+allures-results/*
+.DS_Store
