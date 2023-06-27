@@ -10,6 +10,7 @@
 https://nodejs.org/en
 
 - Instalar Allure Report
+
 MacOS: $ brew install allure
 
 Windows: $ scoop install allure (precisa instalar o scoop)
