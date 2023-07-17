@@ -1,4 +1,4 @@
-# DESAFIO QA - PALACIO DAS FERRAMENTAS E PARAFUSOS
+# AUTOMATION TESTS - CYPRESS (WEB)
 
 > Automation project using cypress
 
@@ -53,7 +53,7 @@ $ npx cypress run -e grepTags='yourTag'
 $ npx cypress run -e grepTags=checkout,configFile=dev
 ```
 
-### Executar o testes com inteface, cypress playground.
+### Executar o testes com interface, cypress playground.
 
 ```
 $ npx cypress open
